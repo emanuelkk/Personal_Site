@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.1rem;
+  margin-top: 0;
+  font-weight: normal;
+
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr{
+margin: 60px auto;
+border-color: #EAF6F6;
+border-style:dotted none none none;
+height: 2px;
+BORDER-width: 10px;
+width: 10%;
+}
+
+.para {
+  color: #66BFBF;
+  margin-bottom: 100px;
+  margin-top: 0;
+  font-size: 1.9rem;
+}
+.para-intro{
+  width: 30%;
+  margin:auto;
+
+}
+
+.Top {
+  background-color: #ccf2f4;
+  position: relative;
+  padding-top: 50px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #11999E;
+  padding-bottom: 10px;
+}
+
+.skill-row {
+  width: 50%;
+
+  margin: 100px auto 130px auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile-pic{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.img1 {
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+
+}
+
+.img2 {
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.pro {
+  text-decoration: underline;
+  color: #66BFBF;
+}
+
+.anchor {
+
+  padding-top: 50px;
+  padding-bottom: 20px;
+  word-spacing: 20px;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  margin-left: 200px;
+}
+
+.button {
+  margin-bottom: 30px;
+  margin-top: 20px;
+  background: #ADE5F9;
+  background-image: -webkit-linear-gradient(top, #ADE5F9, #3D94F6);
+  background-image: -moz-linear-gradient(top, #ADE5F9, #3D94F6);
+  background-image: -ms-linear-gradient(top, #ADE5F9, #3D94F6);
+  background-image: -o-linear-gradient(top, #ADE5F9, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #ADE5F9, #3D94F6);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  height: 19px;
+  line-height: 19px;
+  color: #FFFFFF;
+  font-family: Verdana;
+  width: 150px;
+  font-size: 19px;
+  font-weight: 200;
+  padding: 8px;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.license{
+  color: #eaf6f6;
+  font-size: 0.7rem;
+}
+
+p{
+  line-height: 2;
+}
